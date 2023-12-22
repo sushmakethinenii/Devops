@@ -1,1 +1,2 @@
 This is the file
+This line is added for creating a branch called 'manual' 
