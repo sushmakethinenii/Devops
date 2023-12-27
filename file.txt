@@ -2,3 +2,4 @@ This is the file
 This line is added for creating a branch called 'manual' 
 this line is added for creating a branch called 'automation'
 Hi this is new branch
+creating a new branch
